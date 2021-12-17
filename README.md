@@ -1,3 +1,3 @@
 # javascript-weather-api
 
-<img src="ss.png">
+<img src="WeatherApp/ss.png">
